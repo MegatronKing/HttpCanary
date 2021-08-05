@@ -1,2 +1,2 @@
 # HttpCanary
-HttpCanary app open souce repository
+HttpCanary app open source repository
