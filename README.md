@@ -1,2 +1,3 @@
 # HttpCanary
-HttpCanary app open source repository
+HttpCanary was renamed to Reqable, see more here:
+https://github.com/Reqable/reqable-app
